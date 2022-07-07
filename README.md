@@ -1,8 +1,6 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
+<h1 align="center">
+ <img src="https://github.com/ojasaklechayt/ojasaklechayt/blob/main/ojas.png?raw=true" />
+</h1>
 
 #  Hi!! 👋 I am Ojas...
 - 👋 Hi, I’m @ojasaklechayt
