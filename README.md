@@ -8,7 +8,7 @@
 - 👀 Data Science and Web3 Enthusiast...
 - 🧑‍💻 Languages : Python, C, CPP
 - 🌱 Database : MySql
-- 🌠 Frontend : HTML, CSS
+- 🌠 Frontend : HTML, CSS, Javascript
 
 ## 📫 How to reach me - 
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="21px"/>](https://www.linkedin.com/in/ojas-aklecha-217419201/)
