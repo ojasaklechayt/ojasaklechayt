@@ -4,16 +4,11 @@
 
 #  Hi!! 👋 I am Ojas Aklecha
 - 👋 Hi, I’m @ojasaklechayt
-- 🎓 Sophomore at VIT, Chennai
+- 🎓 Sophomore 
 - 👀 Data Science and Web3 Enthusiast...
 - 🧑‍💻 Languages : Python, C, CPP
 - 🌱 Database : MySql
 - 🌠 Frontend : HTML, CSS, Javascript
-
-## 📫 How to reach me - 
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" width="50px"/>](https://www.linkedin.com/in/ojas-aklecha-217419201/)
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" width="50px"/>](ojasaklechayt@gmail.com)
-[<img src="https://user-images.githubusercontent.com/29517317/105775335-ab313900-5f34-11eb-8ef8-0bfbc1563829.png" width="50px"/>](https://linktr.ee/ojas_aklecha)
 
 ## ✌️ My Github Stats -
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ojasaklechayt)](https://github.com/ojasaklechayt)
