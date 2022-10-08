@@ -10,6 +10,9 @@
 - 🌱 Database : MySql
 - 🌠 Frontend : HTML, CSS, Javascript
 
+## Holopin Badges - 
+[![@komi5uke's Holopin board](https://holopin.io/api/user/board?user=komi5uke)](https://holopin.io/@komi5uke)
+
 ## ✌️ My Github Stats -
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ojasaklechayt)](https://github.com/ojasaklechayt)
 
