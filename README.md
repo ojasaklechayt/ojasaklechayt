@@ -4,11 +4,11 @@
 
 #  Hi!! 👋 I am Ojas Aklecha
 - 👋 Hi, I’m @ojasaklechayt
-- 🎓 Sophomore 
-- 👀 Data Science and Web3 Enthusiast...
-- 🧑‍💻 Languages : Python, C, CPP
+- 🎓 Sophomore BTech CSE Student
+- 👀 Web3 Enthusiast...
+- 🧑‍💻 Languages : Python, C, CPP, Java
 - 🌱 Database : MySql
-- 🌠 Frontend : HTML, CSS, Javascript
+- 🌠 Frontend : HTML, CSS, Javascript, React
 
 ## Holopin Badges - 
 [![@komi5uke's Holopin board](https://holopin.io/api/user/board?user=komi5uke)](https://holopin.io/@komi5uke)
