@@ -17,7 +17,7 @@
 
 
 ## 🤹 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,python,c,cpp,java,r,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,python,c,cpp,java,r,mysql,jquery&theme=dark)](https://skillicons.dev)
 
 ## ✌️ My Github Stats
 | <a href="https://github.com/ojasaklechayt"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ojasaklechayt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ojas's GitHub Stats" /></a> | <a href="https://github.com/ojasaklechayt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasaklechayt&layout=compact&theme=buefy&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" /></a> |
