@@ -4,7 +4,7 @@
 
 #  Hi!! 👋 I am Ojas Aklecha
 - 👋 Hi, I’m @ojasaklechayt, frontend developer and sophomore in Bachlors in Computer Science and Engineering.
-- 🎓 I am currently learning about Web3 and doing Open-Source.
+- 🎓 I am currently learning Web3 and doing Open-Source.
 - 👀 I am a learner and explorer who always wants to learn more.
 - 📝 Read my blogs at [ojasaklecha.xyz](https://ojasaklecha.xyz/)
 
