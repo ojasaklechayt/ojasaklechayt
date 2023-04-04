@@ -19,9 +19,13 @@
 ## 🤹 My Skills
 [![My Skills](https://skillicons.dev/icons?i=figma,scss,tailwindcss,materialui,js,react,nodejs,expressjs,mysql,mongodb,git,python,c,cpp,java,r&theme=dark)](https://skillicons.dev)
 
-## ✌️ My Github Stats
-| <a href="https://github.com/ojasaklechayt"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ojasaklechayt&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Ojas's GitHub Stats" /></a> | <a href="https://github.com/ojasaklechayt"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasaklechayt&layout=compact&theme=buefy&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" /></a> |
-| ------------- | ------------- |
+---
+
+### :fire: My Stats :
+
+ 
+[![Ojas](https://github-readme-streak-stats.herokuapp.com/?user=ojasaklechayt&theme=dark)](https://github.com/ojasaklechayt/github-readme-stats) ![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojasaklechayt&show_icons=true&theme=transparent)
+
 <!---
 ojasaklechayt/ojasaklechayt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
