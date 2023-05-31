@@ -8,6 +8,8 @@
 - 👀 I am a learner and explorer who always wants to learn more.
 - 📝 Read my blogs at [ojasaklecha.xyz](https://ojasaklecha.xyz/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ojasaklechayt&theme=onedark)](https://github.com/ojasaklechayt/github-profile-trophy)
+
 ## My Socials
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/nammekyahaire)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ojas-aklecha/)
