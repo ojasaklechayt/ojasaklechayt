@@ -6,7 +6,7 @@
 - 👋 Hi, Imma Full Stack Developer, UI/UX Designer and Content Writer
 - 🎓 I am currently learning Web3 (Solidity) and doing Open-Source.
 - 👀 I am a learner and explorer who always wants to learn more.
-- 📝 Read my blogs at [ojasaklecha.xyz](https://ojasaklecha.xyz/)
+- 📝 Read my blogs at [ojasaklecha.hashnode.xyz](https://ojasaklecha.hashnode.dev/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojasaklechayt&theme=onedark)](https://github.com/ojasaklechayt/github-profile-trophy)
 
