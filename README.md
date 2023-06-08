@@ -3,8 +3,8 @@
 </h1>
 
 #  Hi!! 👋 I am Ojas Aklecha
-- 👋 Hi, Imma Full Stack Developer, UI/UX Designer and Content Writer
-- 🎓 I am currently learning Web3 (Solidity) and doing Open-Source.
+- 👋 Hi, I am a Full Stack Developer, UI/UX Designer and Content Writer
+- 🎓 I am currently learning Solidity and doing Open-Source.
 - 👀 I am a learner and explorer who always wants to learn more.
 - 📝 Read my blogs at [ojasaklecha.hashnode.xyz](https://ojasaklecha.hashnode.dev/)
 
