@@ -7,7 +7,7 @@
 - 🎓 I am currently learning Solidity and doing Open-Source.
 - 👀 I am a learner and explorer who always wants to learn more.
 - 📝 Read my blogs at [ojasaklecha.hashnode.xyz](https://ojasaklecha.hashnode.dev/)
-- 📝 Checkout my portfolio website at [ojas-aklecha.vercel.apap](https://ojas-aklecha.vercel.app/)
+- 📝 Checkout my portfolio website at [ojas-aklecha.vercel.app](https://ojas-aklecha.vercel.app/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ojasaklechayt&theme=onedark)](https://github.com/ojasaklechayt/github-profile-trophy)
 
