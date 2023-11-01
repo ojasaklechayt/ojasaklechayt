@@ -10,7 +10,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ojas-aklecha/)
 
 ## 🤹 My Skills
-[![My Skills](https://skillicons.dev/icons?i=figma,scss,tailwindcss,materialui,js,ts,react,next,vue,solidity,nodejs,expressjs,mysql,mongodb,git,python,c,cpp,java,r&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,scss,tailwindcss,materialui,bootstrap,js,ts,jquery,react,next,vue,solidity,ipfs,nodejs,expressjs,mysql,mongodb,git,github,githubactions,python,c,cpp,java,supabase,firebase,docker,r,babel,postgres,postman,&theme=dark)](https://skillicons.dev)
 
 ---
 
