@@ -1,7 +1,7 @@
 #  Hi!! 👋 I am Ojas Aklecha
 - 👋 Hi, I am MERN, MEVN & Web3 Developer, UI/UX Designer and Content Writer
 - 🎓 Searching Jobs!!
-- 👀 I am a learner and explorer who always wants to learn more.
+- 👀 I will get things done.
 - 📝 Read my blogs at [ojasaklecha.hashnode.xyz](https://ojasaklecha.hashnode.dev/)
 - 📝 Checkout my portfolio website at [ojas-aklecha.vercel.app](https://ojas-aklecha.vercel.app/)
 
